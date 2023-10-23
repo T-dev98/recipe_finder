@@ -1,3 +1,13 @@
+# Demo Link
+https://myrecipe-finder.netlify.app/
+# Project Setup and Dependency
+- SCSS, ReactIcon. npm install scss react-icons
+- EDAMAM API
+# Functionality
+- Users can serch for any recipe on keyword like recipe name/ Ingredients
+- Userscan view recipe
+- Users can add recive for later.
+- Proper Error handling for Error.
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
