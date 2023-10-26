@@ -5,8 +5,8 @@ https://myrecipe-finder.netlify.app/
 - EDAMAM API
 # Functionality
 - Users can serch for any recipe on keyword like recipe name/ Ingredients
-- Userscan view recipe
-- Users can add recive for later.
+- Users can view recipe
+- Users can add recipe for later.
 - Proper Error handling for Error.
 # Getting Started with Create React App
 
