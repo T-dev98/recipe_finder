@@ -1,5 +1,9 @@
 # Demo Link
 https://myrecipe-finder.netlify.app/
+# About
+Developed and deployed a dynamic Food Recipe Application on Netlify.
+Implemented API fetch function to fetch EDAMAM API.
+Implemented search functionality, enabling users to easily explore recipes by category, increasing user engagement and satisfaction on the platform.
 # Project Setup and Dependency
 - SCSS, ReactIcon. npm install scss react-icons
 - EDAMAM API
